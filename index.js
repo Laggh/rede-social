@@ -1,0 +1,1 @@
+["um","dois","tres"].forEach( (v) => { console.log(v); } )
